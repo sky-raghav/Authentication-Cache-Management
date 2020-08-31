@@ -1,10 +1,8 @@
-# express4.17.1-in-docker
-EXPRESS 4.17 SPA
+# Microservice to generate & authenticate JWT & sending reset password emails to users
 
-IMPORTANT NOTES:
+This Microservice let you do generate a JWT for any username & password & then let you access secured path which needs the generated JWT in header.
+Secured Paths & then sends mail to the user with a reset password code.
 
-    1. Make sure you follow the steps mentioned under "PROJECT START STEPS" and ensure that the steps execute successfully. 
-    2. Make sure you follow the steps mentioned under "DOCKER START STEPS" and ensure that the steps execute successfully. 
 
 PROJECT START STEPS:
 
