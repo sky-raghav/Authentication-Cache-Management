@@ -6,10 +6,6 @@ Secured Paths & then sends mail to the user with a reset password code.
 
 PROJECT START STEPS:
 
-    Pre-requisites:
-    1. Install node, npm
-    2. Install express (npm install express --save)
-
     Steps:
     1. To run this application, do the following:
         1.a. Go to the project root directory.
