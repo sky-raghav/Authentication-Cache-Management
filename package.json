@@ -13,7 +13,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "node-uuid": "^1.4.8",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "redis": "^3.0.2"
   },
   "config": {
